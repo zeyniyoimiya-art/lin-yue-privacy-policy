@@ -1,13 +1,7 @@
 # lin-yue-privacy-policy
-=====================================================
 PRIVACY POLICY — LIN YUE (Pinterest App)
-Last updated: November 3, 2026
-=====================================================
 
 ---------------- ENGLISH VERSION -------------------
-(recomendada para el formulario — los revisores
-de Pinterest están más cómodos en inglés)
-----------------------------------------------------
 
 1. Who we are
 "Lin Yue" is the personal brand of an independent content creator (@linyuemoonn). This application ("the App") is a personal tool that connects to the official Pinterest API to manage and analyze the performance of the owner's own Pinterest account.
